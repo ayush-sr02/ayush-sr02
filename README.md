@@ -46,8 +46,8 @@ Welcome to my GitHub profile! I'm a passionate software developer who enjoys sol
 
 ## 📫 Let's Connect!
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/your-linkedin)
-- 📧 Email: ayushsh2002@gmail.com
+- 💼 [LinkedIn](https://www.linkedin.com/in/ayush1802/)
+- 📧ayushsh2002@gmail.com
 
 ---
 
